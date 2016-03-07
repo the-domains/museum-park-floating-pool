@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Museum Park Floating Pool]]></title>
         <description><![CDATA[Museum Park Floating Pool]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/museum-park-floating-pool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:43:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 17:26:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/museum-park-floating-pool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A UNIQUE FLOATING-POOL PROJECT FOR MUSEUM PARK ]]></title>
             <description><![CDATA[<article><h1>A UNIQUE FLOATING-POOL PROJECT FOR MUSEUM PARK </h1><p>The Floating Pool Project is a perfect complement for the Museum Park Conservancy’s plans to improve and maintain the park as a world-class public space. Excessive waterfront development and water pollution has curtailed public access to beautiful Biscayne Bay. Equipped with a state of the art water filtering system and solar panels, it brings a sustainable and ecological addition. Furthermore, the self-sufficient design allows for easy relocation as needed. As commissioner Sarnoff says: “This should be Miami’s most elegant park.” The Miami Floating Pool can only contribute to the proposed elegance and international prestige of Museum Park and the City of Miami. Similar projects have already enriched Berlin, New York and Antwerp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f1f87fc2bdecfc7a867786ff53d64f6122201c0.jpg"></article>]]></description>
-            <link>undefineda-unique-floating-pool-project-for-museum-park/index.html</link>
+            <link>https://thegrid.ai/museum-park-floating-pool/a-unique-floating-pool-project-for-museum-park/index.html</link>
             <guid isPermaLink="false">8fe63013-95fe-49a6-bcc9-243e05ac997a</guid>
-            <pubDate>Mon, 07 Mar 2016 16:42:47 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 17:26:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
