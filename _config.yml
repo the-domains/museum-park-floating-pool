@@ -1,6 +1,6 @@
 name: Museum Park Floating Pool
 favicon: null
-layout_spectrum: 0.8807
+layout_spectrum: 0
 typography_spectrum: 0.44493
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.12572258058935404
+  brandStrength: 0.0625
   lightness: 0.4375
   saturation: 0.75
   rhythmicContrast: 0.25
