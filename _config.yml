@@ -1,0 +1,28 @@
+name: Museum Park Floating Pool
+favicon: null
+layout_spectrum: 0.6661665707360953
+typography_spectrum: 0.6660733870230615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.12572258058935404
+  lightness: 0.4154506295453757
+  saturation: 0.2932738624513149
+  rhythmicContrast: 0.8314531366340816
+purpose: []
