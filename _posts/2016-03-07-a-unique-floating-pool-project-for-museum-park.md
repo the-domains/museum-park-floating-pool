@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T17:26:34.405Z'
-dateModified: '2016-03-07T17:26:03.807Z'
-title: 'A UNIQUE FLOATING-POOL PROJECT FOR MUSEUM PARK '
+datePublished: '2016-03-07T18:09:52.134Z'
+dateModified: '2016-03-07T18:09:49.819Z'
+title: MUSEUM PARK FLOATING POOL
 author: []
 sourcePath: _posts/2016-03-07-a-unique-floating-pool-project-for-museum-park.md
 published: true
